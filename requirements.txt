@@ -1,0 +1,7 @@
+aiohttp
+fastapi
+uvicorn[standard]
+python-dotenv
+pandas
+websockets
+pydantic
