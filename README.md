@@ -55,7 +55,7 @@ The service will be available at `http://127.0.0.1:8000/` and the API at `/api`.
 - `app/main.py` — FastAPI app and background crawler startup
 - `app/crawler/ais_crawler.py` — crawler implementation
 - `app/api/endpoints.py` — API routes
-- `app/utils/imo_mmsi.py` — IMO→MMSI mapper
+- `app/utils/imo_mmsi.py` — IMO→MMSI mapper 
 - `app/models/vessel.py` — Pydantic model for vessel objects
 
 ## License
